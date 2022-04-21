@@ -1,7 +1,9 @@
 # frontend-developer
 # Кирюхин Вячеслав
 ## Контакты
-- [Тел.](+7-937-265-21-31)
+- Тел. +7-937-265-21-31
+- [Telegram](https://t.me/kirvia)
+- [Github](https://github.com/slawkir)
 ## Hardskills
 
 ## Softskills
