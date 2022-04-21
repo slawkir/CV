@@ -15,7 +15,15 @@
 - реализация блочной модели сайта, Flexbox
 ### GIT
 ### JavaScript
+- знание синтаксиса и базовых конструкций JavaScript
+- работа с DOM
 ### .NET
+- знание синтаксиса и базовых конструкций языка C#
+### Инструменты
+- Visual Studio Code
+- Figma
+- GitBush
+- Sourcetree
 
 ## Softskills
 - работа в команде
