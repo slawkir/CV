@@ -5,6 +5,9 @@
 ## Hardskills
 
 ## Softskills
+- работа в команде
+- тайм-менеджмент
+- навыки коммуникации
 ## Образование
 - EPAM (.NET/WEB-разработка), 2022
 - Rolling Scoupe School (JS/FRONT-END), 2021
