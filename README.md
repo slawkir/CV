@@ -7,3 +7,7 @@
 ## Softskills
 ## Образование
 ## Опыт разработки
+- Drumn-kit
+Memory-game
+WildLife
+Virtual-piano
