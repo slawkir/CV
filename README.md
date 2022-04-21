@@ -9,7 +9,7 @@
 ### HTML, CSS
 ### GIT
 ### JavaScript
-###
+### .NET
 
 ## Softskills
 - работа в команде
