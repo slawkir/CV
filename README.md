@@ -49,3 +49,4 @@
 - [WildLife](https://rolling-scopes-school.github.io/slawkir-JSFE2021Q1/WildLife/)
 - [Virtual-piano](https://rolling-scopes-school.github.io/slawkir-JSFE2021Q1/virtual-piano/)
 - [Online-ZOO](https://rolling-scopes-school.github.io/slawkir-JSFE2021Q1/online-zoo/)
+- [CV](https://slawkir.github.io/portfolio/)
