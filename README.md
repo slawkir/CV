@@ -44,9 +44,9 @@
 - Немецкий: B2
 
 ## Опыт разработки
+- [Library](https://rolling-scopes-school.github.io/slawkir-JSFEPRESCHOOL2023Q2/library/)
 - [Drumn-kit](https://competent-archimedes-598214.netlify.app/)
 - [Memory-game](https://rolling-scopes-school.github.io/slawkir-JSFE2021Q1/match-game/)
-- [WildLife](https://rolling-scopes-school.github.io/slawkir-JSFE2021Q1/WildLife/)
+- [Player](https://slawkir.github.io/audio-player/audio-player/index.html)
 - [Virtual-piano](https://rolling-scopes-school.github.io/slawkir-JSFE2021Q1/virtual-piano/)
-- [Online-ZOO](https://rolling-scopes-school.github.io/slawkir-JSFE2021Q1/online-zoo/)
-- [CV](https://slawkir.github.io/portfolio/)
+  
