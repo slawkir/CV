@@ -45,6 +45,7 @@
 
 ## Опыт разработки
 - [Library](https://rolling-scopes-school.github.io/slawkir-JSFEPRESCHOOL2023Q2/library/)
+- [Calculator Vue.js](https://slawkir.github.io/calculator/index.html)
 - [Drumn-kit](https://competent-archimedes-598214.netlify.app/)
 - [Memory-game](https://rolling-scopes-school.github.io/slawkir-JSFE2021Q1/match-game/)
 - [Player](https://slawkir.github.io/audio-player/audio-player/index.html)
