@@ -29,6 +29,10 @@
 - Sourcetree
 - Bootstrap
 
+### Тестирование
+- знание основ функционального тестирования
+- реализация автотестов (Selenium Webdriver Python, NodeJs) 
+
 ## Softskills
 - работа в команде
 - тайм-менеджмент
