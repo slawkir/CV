@@ -6,32 +6,27 @@
 - [Github](https://github.com/slawkir)
 
 ## Hardskills
-### HTML, CSS
+### Верстка
 - верстка лендингов, приложений
-- семантическая верстка
-- применение принципов БЭМ
-- реализация форм и валидации
-- адаптивная верстка
-- реализация блочной модели сайта, Flexbox
-### GIT
-- знание команд git
-- создание pull-requests
-- реализация принципа "один коммит - одна задача"
-### JavaScript
-- знание синтаксиса и базовых конструкций JavaScript
-- работа с DOM
-### .NET
-- знание синтаксиса и базовых конструкций языка C#
+- HTML, CSS, Sass, БЭМ, Flexbox, Grid, Bootstrap
+- aдаптивная, валидная и кроссбраузерная верстка
+- Pixelperfect
+### Языки программирования, фреймворки
+- JavaScript (знание синтаксиса, конструкций, работа с 
+DOM, Web API)
+- C#
+- Vue.JS
+
 ### Инструменты
-- Visual Studio Code
+- Webpack
+- Gulp
+- GitHub
 - Figma
-- GitBush
-- Sourcetree
-- Bootstrap
+- SQL
 
 ### Тестирование
 - знание основ функционального тестирования
-- реализация автотестов (Selenium Webdriver Python, NodeJs) 
+- реализация автотестов (Selenium Webdriver Python, NodeJs, C#) 
 
 ## Softskills
 - работа в команде
