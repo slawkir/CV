@@ -49,4 +49,5 @@ DOM, Web API)
 - [Memory-game](https://rolling-scopes-school.github.io/slawkir-JSFE2021Q1/match-game/)
 - [Player](https://slawkir.github.io/audio-player/audio-player/index.html)
 - [Virtual-piano](https://rolling-scopes-school.github.io/slawkir-JSFE2021Q1/virtual-piano/)
+- [IMG-API](https://slawkir.github.io/js30-2.2-image-galery/)
   
